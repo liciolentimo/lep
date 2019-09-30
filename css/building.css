@@ -1,8 +1,4 @@
-/******************************************
-    File Name: building.css
-/*****************************************/
 
-/** ADD YOUR AWESOME CODES HERE **/
 
 * {
     transition: ease all 0.5s;
@@ -98,11 +94,11 @@ body.building_version .first-section h2 {
     letter-spacing: 2px;
     padding-bottom: 10px;
 }
-#about.section.wb {
+/* #about.section.wb {
     background: url('../uploads/building/construction01.png');
     background-size: cover;
     background-repeat: no-repeat;
-}
+} */
 h2::after {
     width: 65px;
     height: 5px;
